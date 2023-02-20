@@ -12,8 +12,8 @@
 - 📊 Eu sou muito comunitativo, eu tenho facilidade em aprender coisas novas, gosto de resolver problemas e trabalha em grupo.
 <br><br>
 <!-- Skills -->
-<h2 align="center"> Linguagens e Ferramentas: <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="55px"> </h2>
-<h2 align="center">
+<h2 align="left"> Linguagens e Ferramentas: <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" width="55px"> </h2>
+<h2 align="left">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title = "Java"/></code>
 <code><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>
